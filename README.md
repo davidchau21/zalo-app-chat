@@ -20,4 +20,4 @@
 <img width="1435" src="images/img2.png">
 
 ## ChatPage
-<img width="1435" src="img/img3.png">
+<img width="1435" src="images/img3.png">
